@@ -8,7 +8,7 @@
  * @date Thursday, February 1, 2025
  */
 
-/**
+/**  
  * @mainpage
  * This program is designed to showcase advanced documentation practices.
  * - Demonstrates how to document a C++ class and its methods.
